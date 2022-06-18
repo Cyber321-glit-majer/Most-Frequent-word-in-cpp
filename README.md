@@ -14,6 +14,17 @@ find and print the most frequent vowel in str.
 **OUTPUT**
 Most frequent vowel letter in string
 
+**Example:**
+Input:
+
+6
+
+aabbca
+
+**OUTPUT:**
+
+a
+
 ```
 
 
