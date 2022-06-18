@@ -16,13 +16,9 @@ Most frequent vowel letter in string
 
 **Example:**
 Input:
-
 6
-
 aabbca
-
 **OUTPUT:**
-
 a
 
 ```
